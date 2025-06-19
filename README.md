@@ -127,9 +127,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-```
-
----
-
-Let me know if you'd like me to generate a `requirements.txt`, add a `LICENSE`, or create a visualization script!
-```
